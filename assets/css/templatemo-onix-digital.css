@@ -71,7 +71,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background-color:orange;
+  background-color:#fbad18;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -229,7 +229,7 @@ nav .logo {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: orange;
+    background: #fbad18;
     transition: top 1s ease;
     display: none;
     font-weight: bold;
@@ -1025,7 +1025,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: orange;
+    background: #fbad18;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -1048,7 +1048,7 @@ preloader
     width: 16px;
     height: 16px;
     margin-left: 16px;
-    background:orange;
+    background: #fbad18;
     border-radius: 50%;
 }
 
@@ -1170,7 +1170,7 @@ Banner Style
 }
 
 .content-table thead tr {
-  background-color: orange;
+  background-color: #fbad18;
   color: #ffffff;
   text-align: center;
   font-weight: bold;
@@ -1483,7 +1483,7 @@ Banner Style
 }
 .wrapper .box i.quote{
   font-size: 20px;
-  color: orange;
+  color: #fbad18;
 }
 .wrapper .box .content{
   display: flex;
@@ -1499,19 +1499,19 @@ Banner Style
 .box .info .job{
   font-size: 16px;
   font-weight: 500;
-  color: orange;
+  color: #fbad18;
 }
 .box .info .stars{
   margin-top: 2px;
 }
 .box .info .stars i{
-  color: orange;
+  color: #fbad18;
 }
 .box .content .image{
   height: 75px;
   width: 75px;
   padding: 3px;
-  background: orange;
+  background: #fbad18;
   border-radius: 50%;
 }
 .content .image img{
@@ -1548,7 +1548,7 @@ Banner Style
   /* justify-content: center;
   align-items: center;  */
   min-height: 100vh;
-  background: orange;
+  background: #fbad18;
   padding-top: 100px;
   padding-left: 300px;
 }
@@ -1632,7 +1632,7 @@ padding-left: 100px;
   padding-top: 30px;
 }
 form{
-  background: orange;
+  background: #fbad18;
   width: 640px;
   margin: 50px auto;
   max-width: 97%;
@@ -1829,7 +1829,7 @@ ul{
 	transition: all 0.5s ease;
 }
 .footer-col .social-links a:hover{
-	color: orange;
+	color: #fbad18;
 	background-color: black;
 }
 
